@@ -27,18 +27,6 @@ Our User Requirement Analysis (URA) ensures the product meets clients’ expecta
 - **Performance Analytics:** Access to performance metrics and insights.
 - **Reliability and Support:** Reliable platform with comprehensive documentation and support.
 
-### Feasibility Study
-
-**Operational Feasibility:**  
-Our team includes experts in machine learning, software engineering, and e-commerce. CI/CD pipelines ensure continuous updates and maintenance. User feedback will refine the app post-launch, ensuring compliance with data protection regulations and industry standards.
-
-**Technical Feasibility:**  
-Using NLP methods and models like the T5 transformer for title generation and a multimodal classification model for category classification ensures high accuracy. Combining CNNs for imagery and RNNs for text processing improves product categorization.
-
-**Financial Feasibility:**  
-Initial capital covers research, development, and testing. The economic model includes income from subscription services, premium features, and collaborations. A cost-benefit analysis indicates long-term profitability, with scalability expanding alongside the user base.
-
-
 ## Features
 
 - Automated product title and description generation
